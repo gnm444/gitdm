@@ -2329,6 +2329,12 @@ dwardu89: dwardu89!users.noreply.github.com
 dwatson: david!bashton.com, david!planetwatson.co.uk
 	Debian until 2018-02-01
 	Dunnhumby Ltd from 2018-02-01
+dweekly: david!weekly.org, dweekly!users.noreply.github.com
+	Facebook Inc. until 2014-08-01
+	Google LLC from 2014-08-01 until 2019-01-01
+	Blue Atlas Robotics from 2019-01-01 until 2021-10-01
+	Flowcopter from 2021-10-01
+dweepgogia: dgogia!redhat.com
 dwaynebradley: dwayne.bradley!gmail.com, dwaynebradley!users.noreply.github.com
 	Duke Energy Corporation
 dwding18: dwding18!users.noreply.github.com
@@ -2341,12 +2347,6 @@ dweber019: dweber019!users.noreply.github.com
 	Google LLC from 2021-03-01
 dweeezil: tim!chase2k.com
 	Onlight Inc.
-dweekly: david!weekly.org, dweekly!users.noreply.github.com
-	Facebook Inc. until 2014-08-01
-	Google LLC from 2014-08-01 until 2019-01-01
-	Blue Atlas Robotics from 2019-01-01 until 2021-10-01
-	Flowcopter from 2021-10-01
-dweepgogia: dgogia!redhat.com
 	Independent until 2017-06-01
 	CloudYugaTechnologies Private Ltd from 2017-06-01 until 2017-07-01
 	Independent from 2017-07-01 until 2018-01-01
@@ -24074,3 +24074,5 @@ jovandeginste: jo.vandeginste!gmail.com, jo.vandeginste!kuleuven.be
 	KU Leuven
 jovergar: jovergar!microsoft.com
 	Microsoft Corporation
+gnm444: ngonapa!cisco.com gnm444!users.noreply.github.com
+        Cisco
